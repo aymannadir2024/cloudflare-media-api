@@ -1,0 +1,361 @@
+{
+  "name": "StorageXD",
+  "albums": {
+    "photo_album": {
+      "photo_album_1": [
+        {
+          "name": "photo_album_1_1.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b78449bd-0e6d-4fca-703e-ef5cffe59c00/public"
+        },
+        {
+          "name": "photo_album_1_10.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/3ce453f7-6733-4b4b-6884-493ca9168b00/public"
+        },
+        {
+          "name": "photo_album_1_11.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a4309739-45aa-46a8-6658-92ce64fc1800/public"
+        },
+        {
+          "name": "photo_album_1_12.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/221eeaf8-5f08-45fc-9175-fae08a829f00/public"
+        },
+        {
+          "name": "photo_album_1_13.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/46f3696e-e6be-4bc0-9c40-a0a0011ef200/public"
+        },
+        {
+          "name": "photo_album_1_14.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/4b77c5ef-d12f-4cdf-d79c-a2abfd8f5400/public"
+        },
+        {
+          "name": "photo_album_1_15.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/eef2bf41-21d0-411a-c52e-59193b758500/public"
+        },
+        {
+          "name": "photo_album_1_16.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/83eaa2e8-8c13-4d9a-9c21-e1b56bf6e200/public"
+        },
+        {
+          "name": "photo_album_1_17.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a8e946d1-8420-47e6-b820-4416c9b6e600/public"
+        },
+        {
+          "name": "photo_album_1_18.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/7a3d27f0-fd44-4c39-6494-cd2c8f476d00/public"
+        },
+        {
+          "name": "photo_album_1_19.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c70ceb50-429f-4f9c-74ec-d41f33e49400/public"
+        },
+        {
+          "name": "photo_album_1_2.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/94c7cf24-64f9-4251-a0d6-cd1cb2b0e500/public"
+        },
+        {
+          "name": "photo_album_1_20.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/07eff15d-aa8c-4f6e-a213-3d4e2f8ccf00/public"
+        },
+        {
+          "name": "photo_album_1_21.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/4843c4d8-a3bf-42e6-4708-51f5d9d46f00/public"
+        },
+        {
+          "name": "photo_album_1_22.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a90b7d2e-d192-4ce8-967a-ccad9d557100/public"
+        },
+        {
+          "name": "photo_album_1_23.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/d6b397e6-1f25-42ce-d383-9607002ec300/public"
+        },
+        {
+          "name": "photo_album_1_24.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/77ecc159-c4fc-40c4-7cd2-430a8cd6fe00/public"
+        },
+        {
+          "name": "photo_album_1_25.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/0e08918c-590d-47ed-88f6-9d0a856a4900/public"
+        },
+        {
+          "name": "photo_album_1_26.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/fd2921ee-3e63-45a1-225b-56e75bbdcc00/public"
+        },
+        {
+          "name": "photo_album_1_27.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/ae6e92c2-3da6-41ee-2067-c03ae8b93d00/public"
+        },
+        {
+          "name": "photo_album_1_28.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/1c7ada05-ad18-490a-7e2c-367830a84c00/public"
+        },
+        {
+          "name": "photo_album_1_29.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/78c9a851-de40-4f05-4d18-1c3d1eff3f00/public"
+        },
+        {
+          "name": "photo_album_1_3.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/4f798bb0-48fa-416f-afa4-649e37e86a00/public"
+        },
+        {
+          "name": "photo_album_1_30.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/f5e63a44-ecc5-4fd2-7342-7a858bfdb700/public"
+        },
+        {
+          "name": "photo_album_1_31.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/2152dd3f-1af6-42fc-3f03-f5a3af786700/public"
+        },
+        {
+          "name": "photo_album_1_32.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b0057286-cf57-4e4d-6628-4b4f31257e00/public"
+        },
+        {
+          "name": "photo_album_1_33.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a86d5dba-84e9-4c36-eb3c-3d6165aa1c00/public"
+        },
+        {
+          "name": "photo_album_1_34.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c2dc8884-92c6-4caf-4858-e23259a48200/public"
+        },
+        {
+          "name": "photo_album_1_35.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/df9ec054-6e74-4eee-e34e-d6ba1931f600/public"
+        },
+        {
+          "name": "photo_album_1_36.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b082f923-5ced-4570-ac69-c954e2d6af00/public"
+        },
+        {
+          "name": "photo_album_1_37.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/ef291fd1-939a-4e31-00ca-917adf440100/public"
+        },
+        {
+          "name": "photo_album_1_38.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/56db97af-f231-44a8-f0d4-ac2eb4b24700/public"
+        },
+        {
+          "name": "photo_album_1_39.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/0be2f3f5-2250-4439-0ab3-f436ae713600/public"
+        },
+        {
+          "name": "photo_album_1_4.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/9e2e7192-f3bf-42be-eecc-5de61172a300/public"
+        },
+        {
+          "name": "photo_album_1_40.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c1927c33-153b-4aec-d965-2956f12f0800/public"
+        },
+        {
+          "name": "photo_album_1_41.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c3c9d0a0-69ce-4350-e974-7828070ba200/public"
+        },
+        {
+          "name": "photo_album_1_42.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/8b875292-054f-4448-2596-be8de1455300/public"
+        },
+        {
+          "name": "photo_album_1_43.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/1aadbf0c-14a8-41bc-5fb4-1cc494e3bb00/public"
+        },
+        {
+          "name": "photo_album_1_44.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/d48829bf-cf3c-4ff6-a14c-93c76084b700/public"
+        },
+        {
+          "name": "photo_album_1_45.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/784bd620-4214-4e5c-4859-84451da50800/public"
+        },
+        {
+          "name": "photo_album_1_46.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/2f822c9e-ed42-4389-6ce7-e622f5a05700/public"
+        },
+        {
+          "name": "photo_album_1_47.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/4537a23c-f0ed-4bab-7f7c-27b0da021300/public"
+        },
+        {
+          "name": "photo_album_1_48.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/315564a4-e333-446e-1769-dbda14823100/public"
+        },
+        {
+          "name": "photo_album_1_49.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a3bf69ed-830e-44fd-a4a0-d70aca359400/public"
+        },
+        {
+          "name": "photo_album_1_5.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/862c51a5-c289-4c71-afe0-370d759ddb00/public"
+        },
+        {
+          "name": "photo_album_1_50.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/a1fcfb7c-d8cb-4580-5d43-79144383aa00/public"
+        },
+        {
+          "name": "photo_album_1_51.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/32f7b255-e8bc-482e-ff64-72ef68d54100/public"
+        },
+        {
+          "name": "photo_album_1_52.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/cff900e9-15bc-4928-bb48-72cc74225100/public"
+        },
+        {
+          "name": "photo_album_1_53.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/56877bf1-e66a-48f0-3890-acf01eaa4000/public"
+        },
+        {
+          "name": "photo_album_1_54.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/3afbe58e-3920-43aa-2aae-410f96243300/public"
+        },
+        {
+          "name": "photo_album_1_55.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/42191380-cc62-419a-f1ae-4bbf5863bd00/public"
+        },
+        {
+          "name": "photo_album_1_56.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c35017a1-8dec-43e5-c8cd-301acde1b200/public"
+        },
+        {
+          "name": "photo_album_1_57.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c012f55d-37f4-4a57-bba5-3e9cceea4900/public"
+        },
+        {
+          "name": "photo_album_1_58.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b77e2822-d9dc-4730-bec9-9b72c1088900/public"
+        },
+        {
+          "name": "photo_album_1_59.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/64e92a9f-bb7b-4505-25d9-9b21bab70800/public"
+        },
+        {
+          "name": "photo_album_1_6.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/3be339e4-2a12-4dbc-0a3b-075373220600/public"
+        },
+        {
+          "name": "photo_album_1_60.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/e57d1d50-61c2-4db0-302c-a3455f9e1900/public"
+        },
+        {
+          "name": "photo_album_1_61.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b5d0d7bc-bf33-42dc-b69f-64dad6508100/public"
+        },
+        {
+          "name": "photo_album_1_62.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/7975fb65-adfc-45e8-57c9-645a25061000/public"
+        },
+        {
+          "name": "photo_album_1_63.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/3946153f-4e61-43a7-c703-7611e5b40000/public"
+        },
+        {
+          "name": "photo_album_1_64.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/c96c76ea-45d7-4afd-4fb0-886f999bc900/public"
+        },
+        {
+          "name": "photo_album_1_65.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/1133466c-c8c8-4560-0930-891ecd335b00/public"
+        },
+        {
+          "name": "photo_album_1_66.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b5fa25c2-e427-4057-5d05-a8e818451f00/public"
+        },
+        {
+          "name": "photo_album_1_67.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/ad585f32-0f89-428d-5c4c-966569b23d00/public"
+        },
+        {
+          "name": "photo_album_1_68.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/4aaf736f-a8d9-41a9-afa6-8c3190218200/public"
+        },
+        {
+          "name": "photo_album_1_69.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b451c78e-d4b6-42de-d627-160ffd62c100/public"
+        },
+        {
+          "name": "photo_album_1_7.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/dc8aef4b-1408-423a-4db9-537a44e53800/public"
+        },
+        {
+          "name": "photo_album_1_8.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/503e0df3-1c21-4fd2-3b66-f44c1006a800/public"
+        },
+        {
+          "name": "photo_album_1_9.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/17bb44f3-211b-4798-d354-10e7ae9b0e00/public"
+        }
+      ],
+      "photo_album_2": [
+        {
+          "name": "photo_album_2_1.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/e423e7b6-4a8f-49d7-3648-8aae886f2d00/public"
+        }
+      ],
+      "photo_album_3": [
+        {
+          "name": "photo_album_3_1.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b5cff5fe-c8c7-456a-784b-0e185b208600/public"
+        },
+        {
+          "name": "photo_album_3_10.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/082d1b5b-5b1a-4d13-1445-aa7bb0725c00/public"
+        },
+        {
+          "name": "photo_album_3_2.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/b700ca29-e4b6-48d1-a573-b7314b5e1e00/public"
+        },
+        {
+          "name": "photo_album_3_3.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/66f30fd5-9c19-46e3-3db4-9a3947a4cc00/public"
+        },
+        {
+          "name": "photo_album_3_4.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/9d8c23b4-d520-4ed0-630b-3f467c21ee00/public"
+        },
+        {
+          "name": "photo_album_3_5.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/da7d51ef-fbfb-48c1-7e26-2b220adfcb00/public"
+        },
+        {
+          "name": "photo_album_3_6.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/8ca480fa-005f-4fec-abaf-98bba3698e00/public"
+        },
+        {
+          "name": "photo_album_3_7.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/33b4d996-3a26-4c88-6786-9bba7006ae00/public"
+        },
+        {
+          "name": "photo_album_3_8.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/185b0866-8710-4c67-2087-4cdd85832600/public"
+        },
+        {
+          "name": "photo_album_3_9.jpg",
+          "url": "https://imagedelivery.net/10a0ec413381d07dd13e399fd2ee2841/ac88c14e-1046-4ba3-d390-e3660bcfd100/public"
+        }
+      ]
+    },
+    "video_album": {
+      "album_1": [
+        {
+          "name": "album_1_1.mp4",
+          "id": "caa5367397ff4b9bb7df9aa046940ced"
+        }
+      ],
+      "album_2": [
+        {
+          "name": "album_2_1.mp4",
+          "id": "41dfe393c12346f78887ce97b0ea02d6"
+        },
+        {
+          "name": "album_2_2.mp4",
+          "id": "683b48c09be141b58b402c8550eeb9f3"
+        },
+        {
+          "name": "album_2_3.mp4",
+          "id": "63c2f0d555bf4cf38d519ef92ecd757a"
+        }
+      ],
+      "album_3": [
+        {
+          "name": "album_3_1.mp4",
+          "id": "27043baa15d047d99acc7646da19139a"
+        }
+      ]
+    }
+  }
+}
