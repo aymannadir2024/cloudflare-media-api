@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect("mongodb+srv://aymannadir2024:ZtTHteYnUFvJsR8f@cluster0.mongodb.net/media_database?retryWrites=true&w=majority")
+mongoose.connect(process.env.MONGO_URI)
   .then(() => {
     console.log("✅ MongoDB Connected");
     importData(); // ← Load JSON into DB once on startup
