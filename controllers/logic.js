@@ -4,13 +4,15 @@ const Media = require('../models/mediaModel');
 exports.getFolders = async (req, res) => {
   try {
     const doc = await Media.findOne();
-    const folderNames = Object.keys(doc.albums.photo_album)
-      .concat(Object.keys(doc.albums.video_album));
+    const photoFolders = Object.keys(doc.albums.photo_album).map(name => `photo_album/${name}`);
+    const videoFolders = Object.keys(doc.albums.video_album).map(name => `video_album/${name}`);
+    const folderNames = photoFolders.concat(videoFolders);
     res.json(folderNames);
   } catch (err) {
     res.status(500).json({ error: "Error fetching folders" });
   }
 };
+
 
 exports.getAlbumByName = async (req, res) => {
   try {
